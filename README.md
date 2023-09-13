@@ -1,2 +1,2 @@
-# ImageProcessing
-Implementation of various image processing algorithms
+# Region Detection
+Implementation of some algorithms for region detection
